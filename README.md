@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio de projetos profissionais e acadêmicos
+Portfólio de projetos profissionais e acadêmicos
